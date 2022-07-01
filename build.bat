@@ -1,0 +1,1 @@
+g++ lesson.cpp -o main.exe
